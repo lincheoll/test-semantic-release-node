@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lincheoll/test-semantic-release-node/compare/v1.0.0...v1.1.0) (2025-12-08)
+
+
+### Features
+
+* empty ([927a924](https://github.com/lincheoll/test-semantic-release-node/commit/927a9243113ab2af3ade33e2d810ec028468c38d))
+
 # 1.0.0 (2025-12-08)
 
 
