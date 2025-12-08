@@ -18,6 +18,9 @@ on:
       new_release_version:
         description: 'Version of the new release'
         value: ${{ jobs.release.outputs.new_release_version }}
+  push:
+    branches:
+      - main
 
 jobs:
   release:
