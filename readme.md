@@ -1,4 +1,4 @@
-<!-- feat:	New feature	✅ Minor (1.0.0 → 1.1.0)	feat: add user authentication  ok-->
+<!-- feat:	New feature	✅ Minor (1.0.0 → 1.1.0)	feat: add user authentication  ok 1-->
 <!-- fix:	Bug fix	✅ Patch (1.0.0 → 1.0.1)	fix: resolve login timeout issue ok -->
 <!-- hotfix:	Hot fix	✅ Patch (1.0.0 → 1.0.1)	hotfix: resolve login timeout issue  -->
 <!-- perf:	Performance improvement	✅ Patch (1.0.0 → 1.0.1)	perf: optimize database queries ok -->
