@@ -1,3 +1,10 @@
+## [7.0.4](https://github.com/lincheoll/test-semantic-release-node/compare/v7.0.3...v7.0.4) (2025-12-09)
+
+
+### Performance Improvements
+
+* perf ([378713d](https://github.com/lincheoll/test-semantic-release-node/commit/378713dfe44cc910c4640dc76b82787f55559ca5))
+
 ## [7.0.3](https://github.com/lincheoll/test-semantic-release-node/compare/v7.0.2...v7.0.3) (2025-12-09)
 
 
