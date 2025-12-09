@@ -1,3 +1,10 @@
+# [7.1.0](https://github.com/lincheoll/test-semantic-release-node/compare/v7.0.7...v7.1.0) (2025-12-09)
+
+
+### Features
+
+* feat ([a460c0f](https://github.com/lincheoll/test-semantic-release-node/commit/a460c0f9233184b9e8c35e287bc4465c42870ebc))
+
 ## [7.0.7](https://github.com/lincheoll/test-semantic-release-node/compare/v7.0.6...v7.0.7) (2025-12-09)
 
 
