@@ -1,3 +1,10 @@
+## [7.0.6](https://github.com/lincheoll/test-semantic-release-node/compare/v7.0.5...v7.0.6) (2025-12-09)
+
+
+### Performance Improvements
+
+* pefr ([a891473](https://github.com/lincheoll/test-semantic-release-node/commit/a8914731c3181047690336a262f5943aeba68bad))
+
 ## [7.0.5](https://github.com/lincheoll/test-semantic-release-node/compare/v7.0.4...v7.0.5) (2025-12-09)
 
 
