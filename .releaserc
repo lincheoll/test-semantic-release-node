@@ -8,6 +8,7 @@
     ],
     "plugins": [
       ["@semantic-release/commit-analyzer",{
+        "preset": "conventionalcommits",
         "releaseRules": [
           { "type": "hotfix", "release": "patch" },
           { "type": "perf", "release": "patch" }
