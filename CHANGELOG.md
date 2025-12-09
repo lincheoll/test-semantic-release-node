@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/lincheoll/test-semantic-release-node/compare/v1.2.0...v1.2.1) (2025-12-09)
+
+
+### Bug Fixes
+
+* test fix ([9f95b3f](https://github.com/lincheoll/test-semantic-release-node/commit/9f95b3f71cecc52c67c12c7f74d52f7ab8d8b0fe))
+
 # [1.2.0](https://github.com/lincheoll/test-semantic-release-node/compare/v1.1.1...v1.2.0) (2025-12-09)
 
 
