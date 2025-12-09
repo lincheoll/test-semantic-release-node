@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/lincheoll/test-semantic-release-node/compare/v3.0.1...v4.0.0) (2025-12-09)
+
+
+### Features
+
+* some feature ([9409d09](https://github.com/lincheoll/test-semantic-release-node/commit/9409d097ccc2a2727ae0f4abce278a4e814e8220))
+
+
+### BREAKING CHANGES
+
+* this breaks something
+
 ## [3.0.1](https://github.com/lincheoll/test-semantic-release-node/compare/v3.0.0...v3.0.1) (2025-12-09)
 
 
