@@ -1,6 +1,6 @@
 <!-- feat:	New feature	✅ Minor (1.0.0 → 1.1.0)	feat: add user authentication  ok-->
 <!-- fix:	Bug fix	✅ Patch (1.0.0 → 1.0.1)	fix: resolve login timeout issue ok -->
-hotfix:	Hot fix	✅ Patch (1.0.0 → 1.0.1)	hotfix: resolve login timeout issue 
+hotfix:	Hot fix	✅ Patch (1.0.0 → 1.0.1)	hotfix: resolve login timeout issue 1
 <!-- perf:	Performance improvement	✅ Patch (1.0.0 → 1.0.1)	perf: optimize database queries ok -->
 <!-- BREAKING CHANGE:	Breaking API change	✅ Major (1.0.0 → 2.0.0)	feat!: redesign API endpoints-->
 <!-- chore:	Build/tooling changes	❌ No version bump	chore: update dependencies x->
