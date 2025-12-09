@@ -7,4 +7,4 @@
 <!-- docs:	Documentation only	❌ No version bump	docs: update API documentation x-->
 <!-- style:	Code style/formatting	❌ No version bump	style: format code with prettier x-->
 <!-- refactor:	Code refactoring	❌ No version bump	refactor: simplify user service x-->
-<!-- test:	Add or update tests	❌ No version bump	test: add unit tests for auth -->
+<!-- test:	Add or update tests	❌ No version bump	test: add unit tests for auth x-->
