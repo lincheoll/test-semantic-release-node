@@ -1,3 +1,5 @@
+# [3.0.0](https://github.com/lincheoll/test-semantic-release-node/compare/v2.0.1...v3.0.0) (2025-12-09)
+
 ## [2.0.1](https://github.com/lincheoll/test-semantic-release-node/compare/v2.0.0...v2.0.1) (2025-12-09)
 
 # [2.0.0](https://github.com/lincheoll/test-semantic-release-node/compare/v1.2.2...v2.0.0) (2025-12-09)
